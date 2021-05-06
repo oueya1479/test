@@ -168,10 +168,8 @@ erd-cloud를 통해 데이터베이스를 제작했습니다.
 
 
 
-
-![](https://user-images.githubusercontent.com/68142821/117296380-f4881180-aeaf-11eb-97aa-77db325c2827.png)
-
-![](https://user-images.githubusercontent.com/68142821/117296540-2305ec80-aeb0-11eb-81b8-337fdcd41da9.png)
+<img src="https://user-images.githubusercontent.com/68142821/117296380-f4881180-aeaf-11eb-97aa-77db325c2827.png" style="width: 200px">
+<img src="https://user-images.githubusercontent.com/68142821/117296540-2305ec80-aeb0-11eb-81b8-337fdcd41da9.png" style="width: 200px">
 
 > PROJECT 2차 발표 진행 당시 ppt 일부 내용 중
 
