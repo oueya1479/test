@@ -66,7 +66,10 @@ MEOSINNA(M.S.N)의 3대 주요 가치는 다음과 같습니다. 3대 주요가�
 
 
 
-2021-03-21 ~ 2021-03-30  주제 선정 : 고객 서비스 쇼핑몰 운영  벤치마킹 사이트 선정 : KREAM ([https://kream.co.kr/about/](https://kream.co.kr/about/)), Musinsa ([https://www.musinsa.com/](https://www.musinsa.com/))  1차 시나리오 작성 : 자세한 시나리오가 아닌, 내가 만약 소비자라면 어떤 흐름으로 이어갔으면 좋겠다 하는 자유로운 의견으로 시나리오를 제작.
+2021-03-21 ~ 2021-03-30  
+주제 선정 : 고객 서비스 쇼핑몰 운영  
+벤치마킹 사이트 선정 : KREAM ([https://kream.co.kr/about/](https://kream.co.kr/about/)), Musinsa ([https://www.musinsa.com/](https://www.musinsa.com/))  
+1차 시나리오 작성 : 자세한 시나리오가 아닌, 내가 만약 소비자라면 어떤 흐름으로 이어갔으면 좋겠다 하는 자유로운 의견으로 시나리오를 제작.
 
 
 
@@ -74,7 +77,9 @@ MEOSINNA(M.S.N)의 3대 주요 가치는 다음과 같습니다. 3대 주요가�
 
 
 
-2021-03-30 ~ 2021-04-05  다이어그램 순서도 제작 : 조원 한 명씩 페이지 하나를 지정, 자신이 개발자가 되어 순서도를 제작. 이 때에는 1차 시나리오를 바탕으로 제작.  2차 시나리오 작성 : 순서도를 바탕으로 서로 의논 후 시나리오 작성
+2021-03-30 ~ 2021-04-05  
+다이어그램 순서도 제작 : 조원 한 명씩 페이지 하나를 지정, 자신이 개발자가 되어 순서도를 제작. 이 때에는 1차 시나리오를 바탕으로 제작.  
+2차 시나리오 작성 : 순서도를 바탕으로 서로 의논 후 시나리오 작성
 
 
 
@@ -82,7 +87,9 @@ MEOSINNA(M.S.N)의 3대 주요 가치는 다음과 같습니다. 3대 주요가�
 
 
 
-2021-04-05 ~ 2021-04-16  초기 세팅 구축 : 다이어그램 순서도와 시나리오를 기반으로 erd-cloud 제작 ([https://www.erdcloud.com/d/AmHF9jkzfpwX3LRQh](https://www.erdcloud.com/d/AmHF9jkzfpwX3LRQh)), GIT을 통해 초기 세팅 값 정리  팀 세분화 : 회원, 상품, 주문 각 두 명씩 핵심 기능에 투입되어 프로그램 개발 시작
+2021-04-05 ~ 2021-04-16  
+초기 세팅 구축 : 다이어그램 순서도와 시나리오를 기반으로 erd-cloud 제작 ([https://www.erdcloud.com/d/AmHF9jkzfpwX3LRQh](https://www.erdcloud.com/d/AmHF9jkzfpwX3LRQh)), GIT을 통해 초기 세팅 값 정리  
+팀 세분화 : 회원, 상품, 주문 각 두 명씩 핵심 기능에 투입되어 프로그램 개발 시작
 
 
 
@@ -90,7 +97,9 @@ MEOSINNA(M.S.N)의 3대 주요 가치는 다음과 같습니다. 3대 주요가�
 
 
 
-2021-04-16 ~ 2021-04-29  상품 수집 : M.S.N을 대표할 수 있는 콜라보레이션 상품들을 선정하여 데이터 저장  고객 데이터 분석 : 상품별 스타일 코드를 부여하여 로그인 되어 있는 현재 회원의 패턴을 분석, 고객 추천 서비스 제작
+2021-04-16 ~ 2021-04-29  
+상품 수집 : M.S.N을 대표할 수 있는 콜라보레이션 상품들을 선정하여 데이터 저장  
+고객 데이터 분석 : 상품별 스타일 코드를 부여하여 로그인 되어 있는 현재 회원의 패턴을 분석, 고객 추천 서비스 제작
 
 
 
@@ -120,7 +129,10 @@ erd-cloud를 통해 핵심적인 테이블이 제작되었고, 전체가 바로 
 
 저희 조의 기술 스택은 다음과 같습니다.
 
-운영 체제 : Window 10, Mac M1  사용한 기술 스택 : JAVA, HTML, CSS, Java-script, jquery, ajax  데이터베이스 : Oracle, Oracle-rds(AWS)  툴 : github - git desktop, apache tomcat, slack, erd-cloud
+운영 체제 : Window 10, Mac M1  
+사용한 기술 스택 : JAVA, HTML, CSS, Java-script, jquery, ajax  
+데이터베이스 : Oracle, Oracle-rds(AWS)  
+툴 : github - git desktop, apache tomcat, slack, erd-cloud
 
 Slack을 활용하여 프로젝트에 대한 논의를 진행했습니다.
 
