@@ -103,7 +103,7 @@ MEOSINNA(M.S.N)의 3대 주요 가치는 다음과 같습니다. 3대 주요가�
 
 
 
-<h2><div id="first_third">조직</div></h2>
+<h2><div id="first_third">조직도</div></h2>
 
 
 
